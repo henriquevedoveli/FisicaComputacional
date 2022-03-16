@@ -118,7 +118,7 @@ Onde _w_ é um vetor de peso real e _w * x_ é o produto escalar (que computa um
 
 ---
 
-## Perceptron
+## XOR
 Apesar do Perceptron ser utilizado com operadores lógicos AND, OR e NOT, quando o operador lógico não é linearmente separável como o XOR não pode ser alcançado por um único Perceptron. No entanto, esse problema poderia ser superado usando mais de um Perceptron organizado em redes neurais feed-forward. Uma vez que é impossível desenhar uma linha para dividir as regiões contendo 1 ou 0, a função XOR não é linearmente separável.
 
 <p align="center">
